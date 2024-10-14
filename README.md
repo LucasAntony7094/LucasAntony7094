@@ -1,7 +1,7 @@
-## Opa, Blz
-Meu nome é Lucas Antony
-#Estou estudando na Alura
-#Estou me desenvolvendo na linguagem JavaScript
+## *Opa, Blz*
+Meu nome é *Lucas Antony*
+#Estou estudando na *Alura*
+#Estou me desenvolvendo na linguagem *JavaScript*
 #Utilizo esse espaço para organizar e compartilhar meus projetos
 
 <!--
